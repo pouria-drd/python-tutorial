@@ -17,6 +17,8 @@ print(first_name.lower())
 print(first_name.upper())
 
 
+print(first_name[2])
+
 print(first_name.replace("M", "m"))
 
 print(len(first_name))
